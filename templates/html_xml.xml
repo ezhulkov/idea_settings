@@ -1,0 +1,56 @@
+<templateSet group="html/xml">
+  <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
+    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="tpl" value="&lt;t:pageLink page=&quot;$PAGE$&quot;&gt;$END$&lt;/t:pageLink&gt;" description="tapestry5 pagelink" toReformat="true" toShortenFQNames="true">
+    <variable name="PAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tl" value="&lt;t:loop source=&quot;$SOURCE$&quot; value=&quot;$VALUE$&quot;&gt;&#10;    $END$                                    &#10;&lt;/t:loop&gt;" description="tapestry5 loop" toReformat="true" toShortenFQNames="true">
+    <variable name="SOURCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tife" value="&lt;t:if test=&quot;$IF$&quot;&gt;&#10;    $THEN$&#10;    &lt;t:parameter name=&quot;else&quot;&gt;&#10;        $ELSE$&#10;    &lt;/t:parameter&gt;&#10;&lt;/t:if&gt;" description="tapestry5 if/else" toReformat="true" toShortenFQNames="true">
+    <variable name="IF" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ELSE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tif" value="&lt;t:if test=&quot;$IF$&quot;&gt;&#10;    $THEN$&#10;&lt;/t:if&gt;" description="tapestry5 if" toReformat="true" toShortenFQNames="true">
+    <variable name="IF" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tal" value="&lt;t:actionLink t:id=&quot;$ID$&quot;&gt;$END$&lt;/t:actionLink&gt;" description="tapestry5 actionlink" toReformat="true" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="talc" value="&lt;t:actionLink t:id=&quot;$ID$&quot; t:context=&quot;$CONTEXT$&quot;&gt;$END$&lt;/t:actionLink&gt;" description="tapestry5 actionlink context" toReformat="true" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tplc" value="&lt;t:pageLink page=&quot;$PAGE$&quot; context=&quot;$CONTEXT$&quot;&gt;$END$&lt;/t:pageLink&gt;" description="tapestry5 pagelink context" toReformat="true" toShortenFQNames="true">
+    <variable name="PAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
