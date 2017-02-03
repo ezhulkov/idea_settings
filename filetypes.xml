@@ -47,8 +47,6 @@
       <mapping pattern="*.properties.*" type="Properties" />
       <mapping ext="xcuserstate" type="XML" />
       <mapping ext="soap" type="XML" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
       <mapping ext="playbook" type="YAML_EX" />
     </extensionMap>
   </component>
