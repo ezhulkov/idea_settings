@@ -1,9 +1,16 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="FindNext" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
@@ -12,6 +19,14 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="IpnbMarkdownCellAction" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift meta back_quote" />
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
