@@ -183,11 +183,13 @@
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ravenjs.com_1.3.0_ember,jquery,native_raven.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ravenjs.com_1.3.0_jquery,native_raven.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ravenjs.com_3.10.0_raven.min.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ravenjs.com_1.3.0_ember,jquery,native_raven.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ravenjs.com_1.3.0_jquery,native_raven.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.ravenjs.com_3.10.0_raven.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
