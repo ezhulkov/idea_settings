@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Declaration/Move assignment to field declaration" />
-    <ignoreAction name="Scala/Import/Import all members" />
-  </component>
-</application>

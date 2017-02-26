@@ -1,7 +1,0 @@
-<templateSet group="other">
-  <template name="slf" value="private final static Logger logger = LoggerFactory.getLogger($END$);" description="SLF4J Logger" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-</templateSet>
