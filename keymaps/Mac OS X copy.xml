@@ -1,8 +1,13 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
+  <action id="ShowUmlDiagramPopup" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
