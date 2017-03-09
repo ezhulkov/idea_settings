@@ -10,10 +10,6 @@
     <option name="BLANK_LINES_AROUND_METHOD" value="0" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
