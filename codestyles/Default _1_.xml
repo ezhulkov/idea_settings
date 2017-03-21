@@ -6,6 +6,10 @@
     <option name="RIGHT_MARGIN" value="200" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="260" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
