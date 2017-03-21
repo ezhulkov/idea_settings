@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)">
+  <option name="RIGHT_MARGIN" value="600" />
   <ScalaCodeStyleSettings>
     <option name="DO_NOT_INDENT_TUPLES_CLOSE_BRACE" value="false" />
   </ScalaCodeStyleSettings>
