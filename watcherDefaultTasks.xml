@@ -16,7 +16,7 @@
       <option name="program" value="$USER_HOME$/.rvm/rubies/ruby-2.4.0/bin/compass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$USER_HOME$/Work/gopractice.workshop/conf/compass" />
+      <option name="workingDir" value="$USER_HOME$/Work/profanity/conf/compass" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
