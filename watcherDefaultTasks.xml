@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="compile" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -16,10 +16,10 @@
       <option name="program" value="$USER_HOME$/.rvm/rubies/ruby-2.4.0/bin/compass" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$USER_HOME$/Work/profanity/conf/compass" />
+      <option name="workingDir" value="$USER_HOME$/Work/gopractice.workshop/conf/compass" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="compile" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
