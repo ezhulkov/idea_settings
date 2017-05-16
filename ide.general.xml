@@ -9,5 +9,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="editor.distraction.free.mode" value="true" />
+    <entry key="tabs.alphabetical" value="true" />
   </component>
 </application>
