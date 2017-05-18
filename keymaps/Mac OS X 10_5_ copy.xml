@@ -8,4 +8,10 @@
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="meta alt 3" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
 </keymap>
