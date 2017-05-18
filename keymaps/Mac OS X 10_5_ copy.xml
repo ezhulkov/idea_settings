@@ -14,4 +14,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="meta alt 0" />
+  </action>
 </keymap>
