@@ -5,4 +5,7 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
 </keymap>
