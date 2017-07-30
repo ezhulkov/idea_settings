@@ -1,15 +1,20 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="com.oracle" />
+    <EXCLUDED_PACKAGE NAME="com.sun.deploy" />
     <EXCLUDED_PACKAGE NAME="com.sun.istack" />
     <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
     <EXCLUDED_PACKAGE NAME="com.sun.media" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache" />
     <EXCLUDED_PACKAGE NAME="com.typesafe.scalalogging.Logger" />
     <EXCLUDED_PACKAGE NAME="com.typesafe.scalalogging.Logger" />
+    <EXCLUDED_PACKAGE NAME="fastparse.utils" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Logger" />
     <EXCLUDED_PACKAGE NAME="jdk.internal" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn" />
+    <EXCLUDED_PACKAGE NAME="org.jcp.xml" />
     <EXCLUDED_PACKAGE NAME="play.Logger" />
+    <EXCLUDED_PACKAGE NAME="sun.tools" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
