@@ -13,6 +13,7 @@
     <EXCLUDED_PACKAGE NAME="com.typesafe.scalalogging.Logger" />
     <EXCLUDED_PACKAGE NAME="fastparse.utils" />
     <EXCLUDED_PACKAGE NAME="java.util.logging.Logger" />
+    <EXCLUDED_PACKAGE NAME="javax.xml" />
     <EXCLUDED_PACKAGE NAME="jdk.internal" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn" />
     <EXCLUDED_PACKAGE NAME="org.jcp.xml" />
