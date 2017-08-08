@@ -1,12 +1,14 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="com.oracle" />
+    <EXCLUDED_PACKAGE NAME="com.sun.corba" />
     <EXCLUDED_PACKAGE NAME="com.sun.deploy" />
     <EXCLUDED_PACKAGE NAME="com.sun.istack" />
     <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
     <EXCLUDED_PACKAGE NAME="com.sun.media" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml" />
     <EXCLUDED_PACKAGE NAME="com.typesafe.scalalogging.Logger" />
     <EXCLUDED_PACKAGE NAME="com.typesafe.scalalogging.Logger" />
     <EXCLUDED_PACKAGE NAME="fastparse.utils" />
