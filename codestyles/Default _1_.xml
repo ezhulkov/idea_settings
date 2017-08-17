@@ -55,6 +55,14 @@
     </formatting-settings>
   </DBN-SQL>
   <ScalaCodeStyleSettings>
+    <option name="importLayout">
+      <array>
+        <option value="java" />
+        <option value="all other imports" />
+        <option value="scala" />
+      </array>
+    </option>
+    <option name="sortAsScalastyle" value="true" />
     <option name="DO_NOT_INDENT_TUPLES_CLOSE_BRACE" value="false" />
     <option name="PUBLIC_PROPERTY_TYPE_ANNOTATION" value="0" />
     <option name="PROTECTED_PROPERTY_TYPE_ANNOTATION" value="0" />
