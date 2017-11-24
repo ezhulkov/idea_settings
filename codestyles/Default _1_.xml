@@ -1,5 +1,5 @@
 <code_scheme name="Default (1)">
-  <option name="RIGHT_MARGIN" value="600" />
+  <option name="RIGHT_MARGIN" value="1000" />
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -71,7 +71,7 @@
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
-    <option name="RIGHT_MARGIN" value="260" />
+    <option name="RIGHT_MARGIN" value="1000" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="Scala">
