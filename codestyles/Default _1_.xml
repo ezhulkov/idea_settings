@@ -55,6 +55,11 @@
     </formatting-settings>
   </DBN-SQL>
   <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="com.zeptolab.tlc.utils.JsonSerializers._" />
+      </array>
+    </option>
     <option name="importLayout">
       <array>
         <option value="java" />
