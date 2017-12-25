@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,7 +21,6 @@
       <mask>*.lua</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
-      <mask>*.sass</mask>
       <mask>*.sca</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
@@ -28,6 +28,11 @@
       <mask>*.scala</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>.</mask>
+      <mask>.sa</mask>
+      <mask>.sas</mask>
+      <mask>.sass</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
