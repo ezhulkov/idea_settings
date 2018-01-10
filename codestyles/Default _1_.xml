@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <option name="RIGHT_MARGIN" value="1000" />
   <DBN-PSQL>
     <case-options enabled="false">
@@ -57,6 +57,7 @@
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
+        <option value="com.zeptolab.tlc.model.AnalyticsModel.Serializers._" />
         <option value="com.zeptolab.tlc.utils.JsonSerializers._" />
       </array>
     </option>
