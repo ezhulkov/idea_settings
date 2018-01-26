@@ -16,9 +16,16 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
+  <action id="Scala.RunConsole" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="meta alt 3" />
   </action>
