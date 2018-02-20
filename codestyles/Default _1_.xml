@@ -59,7 +59,6 @@
       <array>
         <option value="com.zeptolab.tlc.model.AnalyticsModel.Serializers._" />
         <option value="com.zeptolab.tlc.model.Model.Serializers._" />
-        <option value="com.zeptolab.tlc.utils.JsonSerializers._" />
         <option value="models.DTO.Serializers._" />
       </array>
     </option>
