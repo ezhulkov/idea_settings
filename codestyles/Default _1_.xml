@@ -58,8 +58,6 @@
     <option name="alwaysUsedImports">
       <array>
         <option value="com.zeptolab.tlc.model.AnalyticsModel.Serializers._" />
-        <option value="com.zeptolab.tlc.model.Model.Serializers._" />
-        <option value="models.DTO.Serializers._" />
       </array>
     </option>
     <option name="importLayout">
