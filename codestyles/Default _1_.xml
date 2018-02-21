@@ -58,6 +58,7 @@
     <option name="alwaysUsedImports">
       <array>
         <option value="com.zeptolab.tlc.model.AnalyticsModel.Serializers._" />
+        <option value="com.zeptolab.tlc.utils.JsonSerializers._" />
       </array>
     </option>
     <option name="importLayout">
