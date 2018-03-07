@@ -1,8 +1,6 @@
 <code_scheme name="Default (1)" version="173">
   <option name="RIGHT_MARGIN" value="1000" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <option name="FORMATTER_ON_TAG" value="formatter:on" />
-  <option name="FORMATTER_OFF_TAG" value="formatter:off" />
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
