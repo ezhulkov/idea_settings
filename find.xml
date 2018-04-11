@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -16,5 +14,6 @@
     <mask>pom.xml</mask>
     <mask>*.tml</mask>
     <mask>*.html</mask>
+    <mask>*.scala.html</mask>
   </component>
 </application>
