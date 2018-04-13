@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.dyn_hi;*.dyn_o;*.hi;*.hprof;*.o;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
@@ -51,13 +51,13 @@
       <mapping ext="ftprj" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="req" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="pfd" type="PLAIN_TEXT" />
-      <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="plain" type="PLAIN_TEXT" />
       <mapping ext="hosts" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
