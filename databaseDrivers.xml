@@ -50,7 +50,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" version="42.1.1" />
+      <artifact name="PostgreSQL" use="true" version="42.2.2" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
@@ -70,15 +70,22 @@
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
     </driver>
+    <driver id="java.sql.Driver" name="mysql 5.1.35" dialect="MySQL" driver-class="java.sql.Driver">
+      <artifact name="MySQL Connector/J" rolling="false" use="true" version="5.1.35" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="false" />
+      <option name="schema-control" value="AUTOMATIC" />
+    </driver>
     <driver id="db2.jtopen">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
-      <option name="auto-sync" value="true" />
+      <artifact name="MySQL Connector/J" version="5.1.46" />
+      <option name="auto-sync" value="false" />
       <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
+      <option name="send-app-info" value="false" />
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="hsqldb.remote">
