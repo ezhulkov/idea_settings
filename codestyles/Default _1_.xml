@@ -68,6 +68,7 @@
         <option value="com.zeptolab.gdpr.db.metas._" />
         <option value="com.zeptolab.gdpr.utils.CirceDerivation._" />
         <option value="com.zeptolab.tlc.model.AnalyticsModel.Serializers._" />
+        <option value="com.zeptolab.tlc.model.Model.Serializers._" />
         <option value="com.zeptolab.tlc.utils.JsonSerializers._" />
       </array>
     </option>
