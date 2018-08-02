@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.tml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -11,7 +12,6 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.tml</mask>
     <mask>*.sql</mask>
     <mask>*.html</mask>
     <mask>*.proto</mask>
@@ -19,5 +19,6 @@
     <mask>*.sass</mask>
     <mask>*.scala</mask>
     <mask>pom.xml</mask>
+    <mask>*.tml</mask>
   </component>
 </application>
