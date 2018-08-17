@@ -71,6 +71,7 @@
         <option value="com.zeptolab.tlc.model.Model.Serializers._" />
         <option value="com.zeptolab.tlc.utils.JsonSerializers._" />
         <option value="com.zeptolab.wlp.utils.CirceDerivation._" />
+        <option value="implicits._" />
       </array>
     </option>
     <option name="classCountToUseImportOnDemand" value="50" />
