@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="akka.http.javadsl" />
     <EXCLUDED_PACKAGE NAME="com.oracle" />
     <EXCLUDED_PACKAGE NAME="com.sun" />
     <EXCLUDED_PACKAGE NAME="com.sun.corba" />
