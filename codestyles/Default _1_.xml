@@ -70,6 +70,7 @@
         <option value="com.zeptolab.tlc.model.AnalyticsModel.Serializers._" />
         <option value="com.zeptolab.tlc.model.Model.Serializers._" />
         <option value="com.zeptolab.tlc.utils.JsonSerializers._" />
+        <option value="com.zeptolab.wlp.model.json._" />
         <option value="com.zeptolab.wlp.utils.CirceDerivation._" />
         <option value="implicits._" />
       </array>
