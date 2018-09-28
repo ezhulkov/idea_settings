@@ -65,6 +65,7 @@
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
+        <option value="ShapesDerivation._" />
         <option value="com.zeptolab.gdpr.db.metas._" />
         <option value="com.zeptolab.gdpr.utils.CirceDerivation._" />
         <option value="com.zeptolab.tlc.model.AnalyticsModel.Serializers._" />
