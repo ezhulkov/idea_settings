@@ -48,6 +48,7 @@
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="bug" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="res" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="ftprj" type="PLAIN_TEXT" />
