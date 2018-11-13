@@ -3,7 +3,6 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -22,5 +21,6 @@
     <mask>logback*</mask>
     <mask>*html</mask>
     <mask>*sass</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
