@@ -76,6 +76,7 @@
         <option value="com.zeptolab.wlp.utils.CirceDerivation._" />
         <option value="implicits._" />
         <option value="models.Implicits._" />
+        <option value="org.http4s.implicits._" />
       </array>
     </option>
     <option name="classCountToUseImportOnDemand" value="50" />
