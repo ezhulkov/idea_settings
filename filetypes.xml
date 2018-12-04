@@ -17,51 +17,52 @@
       <mapping ext="mo" type="JSON" />
       <mapping ext="spe" type="JSON" />
       <mapping pattern="**appservers_count**" type="PLAIN_TEXT" />
-      <mapping pattern="systemd-script" type="PLAIN_TEXT" />
-      <mapping pattern="demo" type="PLAIN_TEXT" />
-      <mapping pattern="prod_ru" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="myid" type="PLAIN_TEXT" />
-      <mapping pattern="zx-sphinx" type="PLAIN_TEXT" />
-      <mapping pattern="prod" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="keytable" type="PLAIN_TEXT" />
-      <mapping pattern="all" type="PLAIN_TEXT" />
-      <mapping pattern="EditObject" type="PLAIN_TEXT" />
-      <mapping pattern="tfengine" type="PLAIN_TEXT" />
-      <mapping pattern="SendParcelModal.tml" type="PLAIN_TEXT" />
-      <mapping pattern="opendkim" type="PLAIN_TEXT" />
-      <mapping pattern="spark" type="PLAIN_TEXT" />
-      <mapping pattern="GetMessagesRq" type="PLAIN_TEXT" />
-      <mapping pattern="adproxy" type="PLAIN_TEXT" />
-      <mapping pattern="kt" type="PLAIN_TEXT" />
       <mapping pattern="bugs" type="PLAIN_TEXT" />
+      <mapping pattern="systemd-script" type="PLAIN_TEXT" />
+      <mapping pattern="prod_ru" type="PLAIN_TEXT" />
+      <mapping pattern="spark" type="PLAIN_TEXT" />
       <mapping pattern="AbstractGenericService" type="PLAIN_TEXT" />
-      <mapping pattern="dev" type="PLAIN_TEXT" />
-      <mapping pattern="ResponseAssertions" type="PLAIN_TEXT" />
+      <mapping pattern="demo" type="PLAIN_TEXT" />
+      <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping pattern="signingtable" type="PLAIN_TEXT" />
+      <mapping pattern="myid" type="PLAIN_TEXT" />
+      <mapping pattern="SendParcelModal.tml" type="PLAIN_TEXT" />
+      <mapping pattern="tfengine" type="PLAIN_TEXT" />
+      <mapping pattern="ooo" type="PLAIN_TEXT" />
+      <mapping pattern="kt" type="PLAIN_TEXT" />
+      <mapping pattern="EditObject" type="PLAIN_TEXT" />
+      <mapping pattern="adproxy" type="PLAIN_TEXT" />
+      <mapping pattern="dev" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="zx-sphinx" type="PLAIN_TEXT" />
+      <mapping pattern="ResponseAssertions" type="PLAIN_TEXT" />
+      <mapping pattern="prod" type="PLAIN_TEXT" />
+      <mapping pattern="GetMessagesRq" type="PLAIN_TEXT" />
       <mapping pattern="exhibitor" type="PLAIN_TEXT" />
+      <mapping pattern="keytable" type="PLAIN_TEXT" />
+      <mapping pattern="opendkim" type="PLAIN_TEXT" />
       <mapping ext="resp" type="PLAIN_TEXT" />
       <mapping ext="private" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="bug" type="PLAIN_TEXT" />
       <mapping ext="plugins" type="PLAIN_TEXT" />
-      <mapping ext="res" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="plain" type="PLAIN_TEXT" />
       <mapping ext="ftprj" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="schema" type="PLAIN_TEXT" />
+      <mapping ext="res" type="PLAIN_TEXT" />
       <mapping ext="req" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="pfd" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="plain" type="PLAIN_TEXT" />
       <mapping ext="hosts" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.*" type="Properties" />
