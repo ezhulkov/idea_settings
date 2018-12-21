@@ -21,6 +21,7 @@
       <mapping pattern="systemd-script" type="PLAIN_TEXT" />
       <mapping pattern="prod_ru" type="PLAIN_TEXT" />
       <mapping pattern="spark" type="PLAIN_TEXT" />
+      <mapping pattern="100-nopwd-users" type="PLAIN_TEXT" />
       <mapping pattern="AbstractGenericService" type="PLAIN_TEXT" />
       <mapping pattern="demo" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
