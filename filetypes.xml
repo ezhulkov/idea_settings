@@ -40,6 +40,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="zx-sphinx" type="PLAIN_TEXT" />
+      <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern="ResponseAssertions" type="PLAIN_TEXT" />
       <mapping pattern="prod" type="PLAIN_TEXT" />
       <mapping pattern="GetMessagesRq" type="PLAIN_TEXT" />
