@@ -66,6 +66,7 @@
       <mapping ext="message" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="pfd" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="hosts" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
