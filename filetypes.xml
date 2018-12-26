@@ -43,6 +43,7 @@
       <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern="ResponseAssertions" type="PLAIN_TEXT" />
       <mapping pattern="prod" type="PLAIN_TEXT" />
+      <mapping pattern="htaccess" type="PLAIN_TEXT" />
       <mapping pattern="GetMessagesRq" type="PLAIN_TEXT" />
       <mapping pattern="keytable" type="PLAIN_TEXT" />
       <mapping pattern="exhibitor" type="PLAIN_TEXT" />
