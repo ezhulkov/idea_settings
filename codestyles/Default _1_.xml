@@ -68,6 +68,7 @@
         <option value="ShapesDerivation._" />
         <option value="cats.implicits._" />
         <option value="cats.syntax.semigroupk._" />
+        <option value="cats.temp.par._" />
         <option value="com.zeptolab.gdpr.db.metas._" />
         <option value="com.zeptolab.gdpr.utils.CirceDerivation._" />
         <option value="com.zeptolab.tlc.model.AnalyticsModel.Serializers._" />
