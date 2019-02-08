@@ -19,6 +19,7 @@
       <mapping pattern="**appservers_count**" type="PLAIN_TEXT" />
       <mapping pattern="bugs" type="PLAIN_TEXT" />
       <mapping pattern="systemd-script" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="prod_ru" type="PLAIN_TEXT" />
       <mapping pattern="spark" type="PLAIN_TEXT" />
       <mapping pattern="100-nopwd-users" type="PLAIN_TEXT" />
@@ -59,7 +60,6 @@
       <mapping ext="plain" type="PLAIN_TEXT" />
       <mapping ext="ftprj" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="res" type="PLAIN_TEXT" />
       <mapping ext="req" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
@@ -68,11 +68,13 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="pfd" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="hosts" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.*" type="Properties" />
+      <removed_mapping ext="tml" type="TML" />
       <mapping ext="xcuserstate" type="XML" />
       <mapping ext="soap" type="XML" />
     </extensionMap>
