@@ -12,14 +12,12 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping ext="tml" type="HTML" />
       <mapping ext="pat" type="JSON" />
       <mapping ext="mo" type="JSON" />
       <mapping ext="spe" type="JSON" />
       <mapping pattern="**appservers_count**" type="PLAIN_TEXT" />
       <mapping pattern="bugs" type="PLAIN_TEXT" />
       <mapping pattern="systemd-script" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="prod_ru" type="PLAIN_TEXT" />
       <mapping pattern="spark" type="PLAIN_TEXT" />
       <mapping pattern="100-nopwd-users" type="PLAIN_TEXT" />
@@ -43,12 +41,12 @@
       <mapping pattern="zx-sphinx" type="PLAIN_TEXT" />
       <mapping pattern="zshrc" type="PLAIN_TEXT" />
       <mapping pattern="ResponseAssertions" type="PLAIN_TEXT" />
-      <mapping pattern="prod" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
       <mapping pattern="GetMessagesRq" type="PLAIN_TEXT" />
       <mapping pattern="keytable" type="PLAIN_TEXT" />
       <mapping pattern="exhibitor" type="PLAIN_TEXT" />
       <mapping pattern="opendkim" type="PLAIN_TEXT" />
+      <mapping pattern="prod" type="PLAIN_TEXT" />
       <mapping ext="resp" type="PLAIN_TEXT" />
       <mapping ext="private" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
@@ -60,6 +58,7 @@
       <mapping ext="plain" type="PLAIN_TEXT" />
       <mapping ext="ftprj" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="res" type="PLAIN_TEXT" />
       <mapping ext="req" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
@@ -68,13 +67,11 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="pfd" type="PLAIN_TEXT" />
-      <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="hosts" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.*" type="Properties" />
-      <removed_mapping ext="tml" type="TML" />
       <mapping ext="xcuserstate" type="XML" />
       <mapping ext="soap" type="XML" />
     </extensionMap>
