@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -22,7 +22,7 @@
     <mask>*.sass</mask>
     <mask>pom.xml</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.scala</mask>
+    <mask>*.java</mask>
   </component>
 </application>
