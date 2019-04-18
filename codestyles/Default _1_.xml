@@ -82,7 +82,7 @@
         <option value="org.http4s.implicits._" />
       </array>
     </option>
-    <option name="classCountToUseImportOnDemand" value="50" />
+    <option name="classCountToUseImportOnDemand" value="10" />
     <option name="importLayout">
       <array>
         <option value="java" />
@@ -90,7 +90,10 @@
         <option value="scala" />
       </array>
     </option>
+    <option name="importShortestPathForAmbiguousReferences" value="false" />
+    <option name="sortAsScalastyle" value="true" />
     <option name="DO_NOT_INDENT_TUPLES_CLOSE_BRACE" value="false" />
+    <option name="FORMATTER" value="1" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INNER_SCOPES" value="0" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="CoffeeScript">
